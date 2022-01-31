@@ -1,0 +1,16 @@
+.message-user{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+.message-admin{
+ display: flex;
+    flex-direction: row;
+    justify-content: left;   
+}
+.message-username{
+    color: rgb(179, 46, 46);
+}
+.message-content{
+    color: rgb(4, 0, 255);
+}
